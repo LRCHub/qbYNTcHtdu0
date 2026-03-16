@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Everything Happens to Me",
+  "base_artist": "Chet Baker",
+  "createdAt": "2026-03-16T15:15:29.355108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/01_Everything_Happens_To_Me_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Mina",
+      "has_synced": true,
+      "path": "select/02_Everything_Happens_to_Me_Mina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Mina",
+      "has_synced": true,
+      "path": "select/03_Everything_Happens_to_Me_Mina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Charlie Parker",
+      "has_synced": false,
+      "path": "select/04_Everything_Happens_to_Me_Charlie_Parker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Patti Page",
+      "has_synced": false,
+      "path": "select/05_Everything_Happens_To_Me_Patti_Page.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Danilo Perez",
+      "has_synced": false,
+      "path": "select/06_Everything_Happens_To_Me_Danilo_Perez.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Neil Sedaka",
+      "has_synced": false,
+      "path": "select/07_Everything_Happens_To_Me_Neil_Sedaka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Pérez, Danilo",
+      "has_synced": false,
+      "path": "select/08_Everything_Happens_to_Me_Pérez,_Danilo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Stan Getz",
+      "has_synced": false,
+      "path": "select/09_Everything_Happens_To_Me_Stan_Getz.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Getz, Stan",
+      "has_synced": false,
+      "path": "select/10_Everything_Happens_To_Me_Getz,_Stan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Bill Evans",
+      "has_synced": false,
+      "path": "select/11_Everything_Happens_to_Me_Bill_Evans.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything Happens to Me",
+      "artist": "Thelonious Monk",
+      "has_synced": false,
+      "path": "select/12_Everything_Happens_to_Me_Thelonious_Monk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Patti LuPone",
+      "has_synced": false,
+      "path": "select/13_Everything_Happens_To_Me_Patti_LuPone.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everything Happens To Me",
+      "artist": "Erroll Garner",
+      "has_synced": false,
+      "path": "select/14_Everything_Happens_To_Me_Erroll_Garner.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything Happens To Me",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_Happens_To_Me_Chet_Baker.txt"
+    }
+  ]
+}
